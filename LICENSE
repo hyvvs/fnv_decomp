@@ -1,10 +1,21 @@
-No licence is granted.
+MIT License
 
-This repository reconstructs source code for FNV (PC, version 1.4.0.525). The program it reconstructs
-is the copyrighted work of its owners, and nothing in this repository grants any rights in it. The contributors do not
-grant a licence to their own contributions either. You may view this repository and fork it on GitHub as GitHub's
-Terms of Service allow.
+Copyright (c) [year] [fullname]
 
-Code under third_party/ keeps its own licence (zlib 1.2.1: see third_party/zlib-1.2.1/README).
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-Questions and takedown requests: contact@fnvdecomp.com
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
